@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+div img {
+    width: 5vw;
+}
+
+.shopping-cart{
+    display: flex;
+}
