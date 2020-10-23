@@ -22,5 +22,11 @@ export const productData = [
       img: "/products_img/grapes.jpg",
       name: "Tafeltrauben hell kernlos 500g",
       price: 1.16,
+    },
+    {
+      id: 4,
+      img: "/products_img/cocomilch.jpg",
+      name: "REWE Bio Kokosmilch 400ml",
+      price: 1.46,
     }
   ];
